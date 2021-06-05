@@ -24,7 +24,8 @@ I then build power lines that straddled the track, and the plan was to attach an
 ## Propulsion attempt 2
 After our disasterous first attempt we were running low on time, and so we had to create a working propulsion system using what we had. We built rollers out of a cardboard tubing that we took from a dumpster as a joke due to its comically large length, and nailed them to a couple pieces of wood and used hot glue to smooth everything out. We then attached a motor to the edge as shown here.
 <img width="460" alt="Screen Shot 2021-06-05 at 3 53 35 PM" src="https://user-images.githubusercontent.com/85416514/120907432-396da800-c616-11eb-8fa6-5a214b331778.png">
-We then ran into an issue where when we added the belt that we were going to use to propel the train, there was nowhere near enough torque in the motor to actually turn the belt, let alone propell the train. We were in a state of dispair 
+
+We then ran into an issue where when we added the belt that we were going to use to propel the train, there was nowhere near enough torque in the motor to actually turn the belt, let alone propell the train. We were in a state of dispair until Felix had the brilliant realization that the power drill that we had been using to put everything together could be used to propell the train.
 
 
 ## Completed PRoject
