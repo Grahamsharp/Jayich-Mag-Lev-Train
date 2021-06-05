@@ -1,1 +1,2 @@
-# Jayich-Mag-Lev-Train
+# Magnetic Levitation Train Project
+In this guide we will be detailing our approach to creating a mag-lev train, starting with the theory of how maglev trains work, and then moving into our adaptations and how we had to modify our designs many times. The goal of the project was to build a working maglev train, which has several significant advantages over traditional trains. The most important is that friction from wheels interacting with the tracks is reduced to 0, meaning the only limitation on the speed is air resistance. (Air resistance can be eliminated by building the train in a vaccuum tube and this is the idea behind Hyperloop). Most of the materials for this project were taken from the dumpster behind the UCSB Physics building.
