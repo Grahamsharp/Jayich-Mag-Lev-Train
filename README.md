@@ -14,6 +14,17 @@ After realizing that our initial goal of balancing the train completely with mag
 
 ## Propulsion attempt 1
 
+<img width="547" alt="Screen Shot 2021-06-05 at 3 04 41 PM" src="https://user-images.githubusercontent.com/85416514/120906566-5fdc1500-c60f-11eb-8037-ec202b78dfdb.png">
+Our inital attempt to make the train actually move was to create a bunch of walls hanging down from an over hanging track, with their magnetic field lines arranged as shown below.
+<img width="193" alt="Screen Shot 2021-06-05 at 3 08 31 PM" src="https://user-images.githubusercontent.com/85416514/120906628-e5f85b80-c60f-11eb-9b8d-0ffeec29d244.png">
+I then build power lines that straddled the track, and the plan was to attach an electromagnet to the top of the car and then use infrared sensors to control a transistor to let in power to the electromagnet and suck it in the the next wall system before turning it off and so on. This fell apart when the magnet arrived and either our powersupply was inadaquate or something was wrong with the magnet, because when plugged in it gave nowhere near enough force to move the train forward. We then had to switch to plan b, which was use materials scavenged from our building phase to make a belt rolling system. 
+
+
+
 ## Propulsion attempt 2
+After our disasterous first attempt we were running low on time, and so we had to create a working propulsion system using what we had. We built rollers out of a cardboard tubing that we took from a dumpster as a joke due to its comically large length, and nailed them to a couple pieces of wood and used hot glue to smooth everything out. We then attached a motor to the edge as shown here.
+<img width="460" alt="Screen Shot 2021-06-05 at 3 53 35 PM" src="https://user-images.githubusercontent.com/85416514/120907432-396da800-c616-11eb-8fa6-5a214b331778.png">
+We then ran into an issue where when we added the belt that we were going to use to propel the train, there was nowhere near enough torque in the motor to actually turn the belt, let alone propell the train. We were in a state of dispair 
+
 
 ## Completed PRoject
