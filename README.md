@@ -35,5 +35,5 @@ We then ran into an issue where when we added the belt that we were going to use
 After attaching the power drill to act as a motor by clamping it down onto a screw we have the end result of 
 <img width="550" alt="Screen Shot 2021-06-05 at 4 19 15 PM" src="https://user-images.githubusercontent.com/85416514/120907845-c8c88a80-c619-11eb-94fc-7661d191d7c0.png">
 
-There were still some problems faced, but we managed to resolve them
+It did not work originally, there were 2 main problems. The first is that Due to the way the belt works, at either end of the track it wanted to lift up the train car off the track, and in the middle there was too much slack in the line, which we fixed by placing a block on the top of the train car, so that we can keep the belt at a consistant height. The next issue was that the belt liked to slip around on the rollers, which we fixed by hammering nails into the rolls, and these function as guide rails for the belt. After this the train worked pretty smoothly, I hope you enjoyed reading!
 
