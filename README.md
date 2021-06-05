@@ -8,9 +8,9 @@ There is a theorem from the mid 1800's named Earnshaws theorem that states that 
 
 
 
-## Balancing the Car
-<img width="201" alt="Screen Shot 2021-06-05 at 2 36 45 PM" src="https://user-images.githubusercontent.com/85416514/120906093-754f4000-c60b-11eb-9ba9-c0c1bf9ee837.png">
-After realizing that our initial goal of balancing the train completely with magnetic fields was unnatainable, we decided to opt for the minimal necessary mechanical stabilization to keep our cart floating, as seen above. We aquired ball rollers and screwed them into our car, which was built out of wood and carefully measured so that the car would snugly hug the track.
+## Building and Balancing the Car
+<img width="600" alt="Screen Shot 2021-06-05 at 2 36 45 PM" src="https://user-images.githubusercontent.com/85416514/120906093-754f4000-c60b-11eb-9ba9-c0c1bf9ee837.png">
+After realizing that our initial goal of balancing the train completely with magnetic fields was unnatainable, we decided to opt for the minimal necessary mechanical stabilization to keep our cart floating, as seen above. We designed the car out of wood as there was a lot of tinkering required. Since we had opted for a monorail design the expansion and contraction of all the pieces with temperature would throw off the alignment, so there was constant screwing and unscrewing of the cart. For stabilization we acquired ball rollers and screwed them into our car, which was carefully measured so that the car would snugly hug the track. There were many different models that we tried,from enourmous hunks with multiple cars to the model shown above, which was made from poplar and slimmed down. We eventually got it so that the car would balance on its own without us holding onto it, however there was still instability when moving that was addressed later on in the build. 
 
 ## Propulsion attempt 1
 
