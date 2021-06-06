@@ -6,6 +6,7 @@ There is a theorem from the mid 1800's named Earnshaws theorem that states that 
 
 ## The Track
 
+The Track is designed to be a two tiered magnetic track using neodynium rare earth magnets, on top of a wooden post because we thought that a monorail design would be the most stable. The magnets are attached with hot glue and there are two layers because we found that the edging effects caused the train to derail with only 1 layer, and this allowed the overlapping magnets to effectively mate 1 large magnet. 
 
 
 ## Building and Balancing the Car
